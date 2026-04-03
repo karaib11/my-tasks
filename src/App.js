@@ -1,3 +1,4 @@
+import React from "react";
 import { useState, useMemo } from "react";
 
 const CATEGORIES = ["Финансы","Логистика","Производство","Продажи","Отчётность","Другое"];
